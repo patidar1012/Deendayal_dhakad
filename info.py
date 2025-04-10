@@ -85,8 +85,8 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/+RsQwXu9PiiQ1MjNl')  
 # Link Shortener Configuration
 # ============================
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantearn.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '4d0ef91df5b74f843ba1ef1223d66d86b6f6f81a')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'techvjlink.site')
+SHORTLINK_API = environ.get('SHORTLINK_API', '05c2d232c88e6c330d37126b6ad85c0b6ecd3d25')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+RsQwXu9PiiQ1MjNl')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 
